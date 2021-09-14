@@ -28,4 +28,4 @@ Multivariate Imputation by Chained Equations (MICE) imputation models for predic
 
 ### [R Data Science Projects](https://github.com/bjmcnamee/MTU_R_Projects)
 - Project 1 : ETL and analysis using dataframes on Health dataset
-- Project 2 : Shiny app dashboard with range of plot types for for any combination of two variables + LR line + Monte Carlo simulations on Pharma dataset
+- Project 2 : Shiny app dashboard on Pharma dataset (any plot, any two variables + LR line) and Monte Carlo simulations
