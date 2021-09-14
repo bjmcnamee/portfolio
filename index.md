@@ -4,7 +4,7 @@
 - 🌱 In final year of Data Science & Analytics at MTU evening studies<br>
 - 📫 How to reach me : bernardmcnamee@gmail.com<br>
 
-![MTU Logo](https://github.com/bjmcnamee/MTU_Python_Projects/tree/main/1/data/MTU_Logo.jpg)
+![MTU Logo](/MTU_Logo.jpg)
 ## [Data Science Python Projects](https://github.com/bjmcnamee/MTU_Python_Projects)
 ### Project 1 : ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
 ### Project 2 : ETL and analysis using Pandas and text-based menu for user interactions on Census and Nutrition Datasets.
