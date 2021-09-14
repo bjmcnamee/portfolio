@@ -13,6 +13,7 @@
 
 ### R Stepwise Regression
 
+-------------------------
 ![MTU Logo](/MTU_Logo.jpg)
 ### [Data Science Python Projects](https://github.com/bjmcnamee/MTU_Python_Projects)
 - Project 1 : ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
