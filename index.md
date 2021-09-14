@@ -4,10 +4,10 @@
 - 💞️ I love to crunch data - ETL, ML and modelling<br>
 - 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
-### [Compass Database Application](https://github.com/bjmcnamee/Compass_App_Dev)
+### [Compass Database Application Development](https://github.com/bjmcnamee/Compass_App_Dev)
 - Expert system for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS
 
-### [Compass Database Content](https://github.com/bjmcnamee/Compass_Content_ETL)
+### [Compass Database Content Development](https://github.com/bjmcnamee/Compass_Content_ETL)
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
 
