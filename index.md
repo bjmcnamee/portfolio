@@ -4,10 +4,10 @@
 - 💞️ I love to crunch data - ETL, ML and modelling<br>
 - 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
-### [Expert System Database Application Development](https://github.com/bjmcnamee/Compass_App_Dev)
-- Expert System for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS/HTML
+### [Expert System Development](https://github.com/bjmcnamee/Compass_App_Dev)
+- Expert System Database Application for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS/HTML
 
-### [Expert System Database Content Development](https://github.com/bjmcnamee/Compass_Content_ETL)
+### [Expert System Content ETL](https://github.com/bjmcnamee/Compass_Content_ETL)
 - Data gathered using API and Scrape methods scripted in Python
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
