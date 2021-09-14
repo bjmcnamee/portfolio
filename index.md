@@ -13,7 +13,7 @@
 
 ### R Projects
 - Stepwise Regression
-- Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching
+- Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data
 
 -------------------------
 ![MTU Logo](/MTU_Logo.jpg)
