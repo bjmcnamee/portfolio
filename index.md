@@ -21,8 +21,8 @@ Multivariate Imputation by Chained Equations (MICE) imputation models for predic
 -------------------------
 ![MTU Logo](/MTU_Logo.jpg)
 ### [Python Data Science Projects](https://github.com/bjmcnamee/MTU_Python_Projects)
-- Project 1 : ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
-- Project 2 : ETL and analysis using Pandas and text-based menu for user interactions on Census and Nutrition Datasets.
+- Project 1 : ETL and analysis using Pandas on Auto Dataset.
+- Project 2 : ETL and analysis using Pandas on Census and Nutrition Datasets.
 - Project 3 : Machine Learning Linear Regression (LR)
 - Project 4 : Machine Learning Natural language Processing (NLP)
 
