@@ -2,7 +2,7 @@
 - 👀 Technical Data Analyst with research charity, Heartbeat Trust<br>
 - 🌱 In final year of Data Science & Analytics at MTU evening studies<br>
 - 💞️ I love to crunch data - ETL, ML and modelling<br>
-- 📫 How to reach me : bernardmcnamee@gmail.com<br>
+- 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
 ### [Compass Database Application](https://github.com/bjmcnamee/Compass_App_Dev)
 - Expert system for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS
