@@ -1,21 +1,21 @@
 - 👋 Hi, I’m Bernard McNamee @bjmcnamee<br>
-- 👀 Technical Data Analyst with research charity, Heartbeat Trust<br>
-- 🌱 In final year of Data Science & Analytics at MTU evening studies<br>
+- 👀 Technical Data Analyst with a Heart Research Charity<br>
+- 🌱 In final year of MSc Data Science & Analytics at MTU evening studies<br>
 - 💞️ I love to crunch data - ETL, ML and modelling<br>
 - 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
-### [Compass Database Application Development](https://github.com/bjmcnamee/Compass_App_Dev)
-- Expert system for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS/HTML
+### [Expert System Database Application Development](https://github.com/bjmcnamee/Compass_App_Dev)
+- Expert System for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS/HTML
 
-### [Compass Database Content Development](https://github.com/bjmcnamee/Compass_Content_ETL)
+### [Expert System Database Content Development](https://github.com/bjmcnamee/Compass_Content_ETL)
 - Data gathered using API and Scrape methods scripted in Python
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
 
 ### R Projects
 Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data from longitudinal studies
-- [MICE Parable](https://github.com/bjmcnamee/MICE_Parable)
-- [MICE Iron Supplement](https://github.com/bjmcnamee/MICE_IronSupplement)
+- [MICE Study 1](https://github.com/bjmcnamee/MICE_Parable)
+- [MICE Study 2](https://github.com/bjmcnamee/MICE_IronSupplement)
 - Stepwise Regression
 
 -------------------------
