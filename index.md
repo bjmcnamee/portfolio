@@ -17,7 +17,7 @@
 
 -------------------------
 ![MTU Logo](/MTU_Logo.jpg)
-### [Data Science Python Projects](https://github.com/bjmcnamee/MTU_Python_Projects)
+### [Python Data Science Projects](https://github.com/bjmcnamee/MTU_Python_Projects)
 - Project 1 : ETL and analysis using Pandas and text-based menu for user interactions on Auto Dataset.
 - Project 2 : ETL and analysis using Pandas and text-based menu for user interactions on Census and Nutrition Datasets.
 - Project 3 : Machine Learning Linear Regression (LR)
