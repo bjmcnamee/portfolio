@@ -13,8 +13,8 @@
 
 ### R Projects
 Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data from longitudinal studies
-- MICE Parable
-- MICE Iron Supplement
+- [MICE Parable](https://github.com/bjmcnamee/MICE_Parable)
+- [MICE Iron Supplement](https://github.com/bjmcnamee/MICE_IronSupplement)
 - Stepwise Regression
 
 -------------------------
