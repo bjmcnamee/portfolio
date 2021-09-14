@@ -27,4 +27,5 @@ Multivariate Imputation by Chained Equations (MICE) imputation models for predic
 - Project 4 : Machine Learning Natural language Processing (NLP)
 
 ### [R Data Science Projects](https://github.com/bjmcnamee/MTU_R_Projects)
-- Project 1 : ETL and analysis using dataframes on Person's Health Dataset
+- Project 1 : ETL and analysis using dataframes on Health dataset
+- Project 2 : Shiny app dashboard with range of plot types for for any combination of two variables + LR line + Monte Carlo simulations on Pharma dataset
