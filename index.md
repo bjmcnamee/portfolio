@@ -11,7 +11,9 @@
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
 
-### R Stepwise Regression
+### R Projects
+- Stepwise Regression
+- Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching
 
 -------------------------
 ![MTU Logo](/MTU_Logo.jpg)
