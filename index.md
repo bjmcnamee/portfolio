@@ -12,8 +12,8 @@
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
 
-### R Projects
-Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data from longitudinal studies
+### MICE Study Analyses
+Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data from longitudinal studies in R
 - [MICE Study 1](https://github.com/bjmcnamee/MICE_Parable)
 - [MICE Study 2](https://github.com/bjmcnamee/MICE_IronSupplement)
 - Stepwise Regression
