@@ -12,8 +12,10 @@
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
 
 ### R Projects
+Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data from longitudinal studies
+- MICE Parable
+- MICE Iron Supplement
 - Stepwise Regression
-- Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data
 
 -------------------------
 ![MTU Logo](/MTU_Logo.jpg)
