@@ -5,9 +5,10 @@
 - 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
 ### [Compass Database Application Development](https://github.com/bjmcnamee/Compass_App_Dev)
-- Expert system for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS
+- Expert system for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS/HTML
 
 ### [Compass Database Content Development](https://github.com/bjmcnamee/Compass_Content_ETL)
+- Data gathered using API and Scrape methods scripted in Python
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
 
