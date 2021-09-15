@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bernard McNamee<br>
-- 👀 Technical Data Analyst with a Heart Research Charity<br>
-- 🌱 In final year of MSc Data Science & Analytics at MTU evening studies<br>
-- 💞️ I love to crunch data - ETL, ML and modelling<br>
-- 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
+👋 Hi, I’m Bernard McNamee<br>
+👀 Technical Data Analyst with a Heart Research Charity<br>
+🌱 In final year of MSc Data Science & Analytics at MTU evening studies<br>
+💞️ I love to crunch data - ETL, ML and modelling<br>
+📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
 ### [Expert System Development](https://github.com/bjmcnamee/Compass_App_Dev)
 - Expert System Database Application for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS/HTML
