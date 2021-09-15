@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bernard McNamee @bjmcnamee<br>
+- 👋 Hi, I’m Bernard McNamee<br>
 - 👀 Technical Data Analyst with a Heart Research Charity<br>
 - 🌱 In final year of MSc Data Science & Analytics at MTU evening studies<br>
 - 💞️ I love to crunch data - ETL, ML and modelling<br>
