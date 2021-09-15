@@ -1,6 +1,6 @@
 👋 Hi, I’m Bernard McNamee<br>
 👀 Technical Data Analyst with a Heart Research Charity<br>
-🌱 In final year of MSc Data Science & Analytics at MTU evening studies<br>
+🌱 In final year of MSc Data Science & Analytics at MTU, Cork evening studies<br>
 💞️ I love to crunch data - ETL, ML and modelling<br>
 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
