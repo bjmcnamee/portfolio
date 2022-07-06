@@ -6,13 +6,14 @@
 
 
 
+
 ### Expert System Database Application
 - application for GPs/Pharmacists
 - built in MySQL/PHP/Javascript/CSS/HTML
 - data gathered using API and Scrape methods scripted in Python
 - 561K+ drug-drug interactions, 766 drugs, etc
 - scraping libs : urllib.request, cfscrape, Levenshtein, BeautifulSoup
-- [Application](https://github.com/bjmcnamee/Compass_App_Dev) | [Content ETL](https://github.com/bjmcnamee/Compass_Content_ETL)
+- [Application](https://github.com/bjmcnamee/Compass_App_Dev) - [Content ETL](https://github.com/bjmcnamee/Compass_Content_ETL)
 
 ### MICE Study Analyses
 Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data from longitudinal studies in R
@@ -35,4 +36,4 @@ Machine Learning
 ### [R Data Science Projects](https://github.com/bjmcnamee/MTU_R_Projects)
 - Project 1 : ETL and analysis using dataframes on Health dataset
 - Project 2 : Shiny app dashboard on Pharma dataset (any plot, any two variables + LR line) and Monte Carlo simulations
-- Project 3 : Short term Electricity Load Forecasting for a household - STLF Time Series Forecasting
+- Project 3 : Short term Electricity Load Forecasting for a household - STLF Time Series Forecasting using ARIMA, SVM and DL RNN
