@@ -6,21 +6,21 @@
 
 
 ### Expert System Database Application
-- Application for GPs/Pharmacists
+- application for GPs/Pharmacists
 - built in MySQL/PHP/Javascript/CSS/HTML
-- [Development](https://github.com/bjmcnamee/Compass_App_Dev)
-- Data gathered using API and Scrape methods scripted in Python
+- [Application](https://github.com/bjmcnamee/Compass_App_Dev)
+- data gathered using API and Scrape methods scripted in Python
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
 - [Content ETL](https://github.com/bjmcnamee/Compass_Content_ETL)
 
 ### MICE Study Analyses
 Multivariate Imputation by Chained Equations (MICE) imputation models for predictive mean matching for incomplete data from longitudinal studies in R
-- [MICE Study 1](https://github.com/bjmcnamee/MICE_Parable)
-- [MICE Study 2](https://github.com/bjmcnamee/MICE_IronSupplement)
-- Stepwise Regression
+- [MICE - Parable heart failure and cardiovascular disease analysis](https://github.com/bjmcnamee/MICE_Parable)
+- [MICE - Active Iron supplement analysis](https://github.com/bjmcnamee/MICE_IronSupplement)
 
--------------------------
+
+
 ![MTU Logo](/MTU_Logo.jpg)
 ### [Python Data Science Projects](https://github.com/bjmcnamee/MTU_Python_Projects)
 - Project 1 : ETL and analysis using Pandas on Auto Dataset.
