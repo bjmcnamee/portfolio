@@ -1,7 +1,7 @@
 👋 Hi, I’m Bernard McNamee<br>
-👀 Technical Data Analyst with a Heart Research Charity<br>
-🌱 In final year of MSc Data Science & Analytics at MTU, Cork evening studies<br>
-💞️ I love to crunch data - ETL, ML and modelling<br>
+🌱 In final semester of MSc Data Science & Analytics at MTU, Cork<br>
+👀 Github is my home for college and work projects<br>
+💞️ My data analytics areas of interest include ETL, ML (GLMs and DLMs) and Applied Statistics<br>
 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
 ### [Expert System Development](https://github.com/bjmcnamee/Compass_App_Dev)
