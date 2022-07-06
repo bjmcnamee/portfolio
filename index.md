@@ -4,10 +4,11 @@
 💞️ My data analytics areas of interest include ETL, ML (GLMs and DLMs) and Applied Statistics<br>
 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
-### Expert System Database Application
-- Application for GPs/Pharmacists built in MySQL/PHP/Javascript/CSS/HTML
-- [Development](https://github.com/bjmcnamee/Compass_App_Dev)
 
+### Expert System Database Application
+- Application for GPs/Pharmacists
+- built in MySQL/PHP/Javascript/CSS/HTML
+- [Development](https://github.com/bjmcnamee/Compass_App_Dev)
 - Data gathered using API and Scrape methods scripted in Python
 - 561K+ drug-drug interactions, 766 drugs, etc
 - lib : urllib.request, cfscrape, Levenshtein, BeautifulSoup
