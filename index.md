@@ -1,6 +1,6 @@
 👋 Hi, I’m Bernard McNamee<br>
 🌱 In final semester of MSc Data Science & Analytics at MTU, Cork<br>
-👀 Github is my home for college and work projects<br>
+👀 Github is my home for a selection of college and work projects<br>
 💞️ My data analytics areas of interest include ETL, ML (GLMs and DLMs) and Applied Statistics<br>
 📫 How to reach me : <a href="mailto:bernardmcnamee@gmail.com">bernardmcnamee@gmail.com</a><br>
 
